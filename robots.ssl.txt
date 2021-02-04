@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /*/form
+Disallow: /*/Form
+Disallow: /*/customersummary
+Disallow: /*/customersummary/2
+Disallow: /*/customersummary/5
+Disallow: /*/ForgottenPassword
+Disallow: /*/SignIn
+Disallow: /*/signin
+Disallow: /credit-cards/campaigns/
+Disallow: /credit-cards/CreditCards/More/
+Disallow: /credit-cards/Apply
+Disallow: /credit-cards/CreditCards/Apply
+Disallow: /savings/campaigns/
+Disallow: /savings/Apply
+Disallow: /campaign/
+Disallow: /ClickThrough?TargetSiteAlias
+Disallow: /account/
+Disallow: /services/
+Disallow: /ajaxServices/
+Disallow: /brian-the-robot/toy-claim
+Disallow: /brian-the-robot/how-to-claim-toy/email
+Disallow: /brian-the-robot/your-toy/claim-your-toy
+Disallow: /carfused
+Disallow: /buying/*
+Disallow: /api/tracking/*
+Disallow: /see-all-cars/*
+Disallow: /car-details/*
+
+
+
+sitemap: https://www.confused.com/sitemap.xml
+sitemap: https://www.confused.com/sitemap_images.xml
+
